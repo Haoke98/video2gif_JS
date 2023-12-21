@@ -27,3 +27,11 @@ MIT.
 | OperationSystem   | Chip         | Node     | npm     | npm registry                               | yarn     | yarn registry                              | Status |
 |-------------------|--------------|----------|---------|--------------------------------------------|----------|--------------------------------------------|--------|
 | MacOS Ventura13.1 | Apple M1 Pro | v20.10.0 | v10.2.3 | [TaoBao](https://registry.npm.taobao.org/) | v1.22.17 | [TaoBao](https://registry.npm.taobao.org/) | ✅      |
+
+#### Video Type Testing
+| VideoType | Status | 
+|-----------|--------|
+| MP4       | ✅      |
+| MOV       | ❌      |
+| OGG       | ✅      |
+| WEBM      | ✅      |
